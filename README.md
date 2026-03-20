@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<div align="left">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersqz&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersqz&layout=compact&langs_count=8&theme=nightowl&hide=html,css,c"/>
+</div>
 <!--
 **andersqz/andersqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
