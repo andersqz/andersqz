@@ -24,7 +24,3 @@
 
 ### ⚡ Technologies
 
-- Java • Spring Boot • Docker
-- PostgreSQL • SAP SQL Anywhere 17
-- Python • C++
-- Git • GitHub • VS Code
