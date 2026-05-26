@@ -14,7 +14,7 @@
 
 ### 💻 About Me
 
-- 🎓 Systems Information student
+- 🎓 Information Systems student
 - ☕ Focused on Java backend development
 - 🌱 Currently learning Spring Boot, software architecture and agile methodologies
 - 🛠️ Working with technical support for ERP systems and relational databases
