@@ -21,6 +21,5 @@
 - 🗄️ Experience with Java, C++ and SAP SQL Anywhere 17
 
 ---
-### 📊 Minhas Linguagens de Programação
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersqz&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Minhas Linguagens" />
