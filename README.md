@@ -20,7 +20,7 @@
 - 🟣 Focused on C# backend development with .NET
 - 🌱 Currently learning ASP.NET Core, Entity Framework Core, software architecture and clean architecture
 - 🛠️ Working with technical support for ERP systems and relational databases
-- 🗄️ Experience with C#, .NET, Java, C++, Python and SAP SQL Anywhere 17
+- 🗄️ Experience with C#, Java, C++ and Python
 
 ---
 
