@@ -20,8 +20,6 @@
 - 🟣 Focused on C# backend development with .NET
 - 🌱 Currently learning ASP.NET Core, Entity Framework Core, software architecture and clean architecture
 - 🛠️ Working with technical support for ERP systems and relational databases
-- 🗄️ Experience with C#, Java, C++ and Python
+- 🗄️ Experience with C#, Java and C++
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersqz&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Minhas Linguagens" />
